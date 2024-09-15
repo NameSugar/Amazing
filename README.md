@@ -1,2 +1,2 @@
-# Amazing
-Amazing Shooter files for create a mods on it
+# Amazing Shooter Game Files
+This repository contains the game files for Amazing Shooter
